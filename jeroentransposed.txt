@@ -1,0 +1,35 @@
+Biomarker,Xanthine oxidase,3-Cl-Tyr,Protein-thiol disulfide OxRed,Nrf2,AGE,PrCarb,OxLDL,HNE,MDA,F2-IsoP,Isolevuglandins,NO2-Tyr,GSH/GSSG,PR-SS-SG,Cysteine/Cystine,8oxodG/8oxoGuo,P-VASP,Free iron (Fe2+),Acrolein,ADMA
+Cancer,0,0,1,1,0,1,0,0,0.14,0,0,1,1,1,0,1,0,0,0,0
+CVD,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,0,1,0,1,1
+Atherosclerosis,0,1,0,0,1,0,1,1,1,1,1,1,0,0,1,0,0,0,1,1
+Ischemia/reperfusion,1,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+Heart failure,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Hypertension,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+Pulmonary hypertension,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Rheumatoid arthritis,1,1,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+Alzheimer's disease,0,0,0,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1
+Parkinson's disease,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Amyotrophic lateral sclerosis,0,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Mild cognitive impairment,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+Huntington's disease,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Multiple sclerosis,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+Systemic amyloidosis,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,0,1
+Obesity,0,1,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0
+Asthma,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+COPD,0,1,0,1,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0
+Cystic fibrosis,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+ARDS,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pulmonary fibrosis,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sickle cell disease,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Schizophrenia,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Osteoporosis,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psoriatic arthritis,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+AIDS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Systemic lupus erythematosis,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sepsis,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crohn's disease,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Diabetes mellitis,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Uremia,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Systemic sclerosis,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Chronic kidney failure,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
